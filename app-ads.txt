@@ -1,0 +1,3 @@
+# app-ads.txt for Bossco apps (DOTFALL ARENA)
+# AdMob publisher ID pending: replace the line below with the real one and remove the leading "# ".
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0 (pending AdMob account)
